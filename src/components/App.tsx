@@ -1,12 +1,12 @@
 import React from 'react';
 import Navbar from './Navbar';
-import Test from './test';
+import SnapPage from './SnapPage';
 
 function App() {
   return (
     <>
       <Navbar />
-      <h1>HEo</h1>
+      <SnapPage />
     </>
   );
 }
